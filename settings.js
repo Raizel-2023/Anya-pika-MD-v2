@@ -5,25 +5,25 @@ const chalk = require('chalk')
 global.simBotname = "Anya" //⚠️ ᴏɴʟʏ ᴜsᴇ ɴᴏʀᴍᴀʟ ғᴏɴᴛ ᴀɴᴅ sɪɴɢʟᴇ ᴡᴏʀᴅ ғᴏʀ ᴛʜɪs ɴᴀᴍᴇ ⚠️//
 
              //--------Owner & vcard--------\\
-             global.botname = "Queen Anya" 
-             global.ownernumber = ['918811074852'] // Owner number //
-             global.vcardowner = ['918811074852'] // vcard owner number //
-             global.ownername = "3.69_Pika" // Owner name //
-             global.ytname = "YT: ONYXPIKA" // Yt chanel name //
-             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
+             global.botname = "𝘌𝘓Ｇ𝘈𝘡𝘈𝘙 𝘉𝘖𝘛" 
+             global.ownernumber = ['201098906252'] // Owner number //
+             global.vcardowner = ['201098906252'] // vcard owner number //
+             global.ownername = "𝘌𝘓Ｇ𝘈𝘡𝘈𝘙 𝘈𝘓𝘞𝘈𝘡𝘌𝘙" // Owner name //
+             global.ytname = "YT: 𝘌𝘓Ｇ𝘈𝘡𝘈𝘙" // Yt chanel name //
+             global.socialm = "يوتيوب : 𝘌𝘓Ｇ𝘈𝘡𝘈𝘌" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
-             global.aliveMessage = `🦋⃟≛⃝ 𝗔𝗻𝘆𝗮ᵇʸ ᵖⁱᵏᵃ•••       ⬇️` // Alive message for menu //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852' // Tag number //
-             global.linkz = "https://wa.me/+918811074852" // Theme url which will be displayed on whatsapp //
-             global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
+             global.aliveMessage = `🦋⃟≛⃝ 𝘌𝘓Ｇ𝘈𝘡𝘈𝘙ᵇʸ ᵉᴌᶢạᙆạʳ•••       ⬇️` // Alive message for menu //
+             global.owner = ['201098906252','201098906252','201098906252']
+             global.ownertag = '201098906252' // Tag number //
+             global.linkz = "https://wa.me/+201098906252" // Theme url which will be displayed on whatsapp //
+             global.websitex = "https://youtube.com/@ABDALLAH_MOHAMED" // Website to be displayed //
              global.botscript = 'Not available publicly' // Script link //
-             global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-             global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-             actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-             global.premium = ['918811074852'] // premium numbers //
-             global.headerText = "Anya by Pika" // text for header of menus //
-             global.waterMark = "×͜× Pika™ ✓" // Your own watermark //
+             global.packname = "𝘌𝘓Ｇ𝘈𝘡𝘈𝘙💫 𝘉𝘖𝘛 𝘉𝘠 𝘌𝘓Ｇ𝘈𝘡𝘈𝘙" // sticker watermark packname //
+             global.author = "🥵𝘌𝘓Ｇ𝘈𝘡𝘈𝘙 𝘉𝘖𝘛" // sticker watermark author //
+             actiontitle = '࿙⚜𝘌𝘓Ｇ𝘈𝘡𝘈𝘙⚜࿚' // text who displays on the top of welcome and left message //
+             global.premium = ['201098906252'] // premium numbers //
+             global.headerText = "𝘌𝘓Ｇ𝘈𝘡𝘈𝘙 𝘉𝘠 𝘈𝘉𝘋𝘈𝘓𝘓𝘈𝘏" // text for header of menus //
+             global.waterMark = "×͜× 𝘌𝘓Ｇ𝘈𝘡𝘈𝘙™ ✓" // Your own watermark //
 
 global.prefa = ['/','-']
 
